@@ -29,3 +29,6 @@ Tarayicida http://localhost:5173 adresini ac.
 Ekran Goruntusu
 
 <img width="1809" height="963" alt="Ekran görüntüsü 2026-02-26 225604" src="https://github.com/user-attachments/assets/35d1d2ef-f146-4717-ac32-dee872d8abb8" />
+
+<img width="1903" height="955" alt="Ekran görüntüsü 2026-02-27 000002" src="https://github.com/user-attachments/assets/14e04acd-3f23-4f85-92d3-14a57ea0169a" />
+
